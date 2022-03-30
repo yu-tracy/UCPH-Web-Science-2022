@@ -1,2 +1,2 @@
 # UCPH-Web-Science-2022
-Some exercises and the final project
+Some exercises of this course
